@@ -1,3 +1,2 @@
 1. Print the name of your primary school.
 2. Print the name of your favourite subject in school.
-3. Print the sum of any two numbers.
